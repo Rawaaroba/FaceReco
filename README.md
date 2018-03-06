@@ -1,0 +1,2 @@
+# FaceReco
+My graduation project was about Face Recognition (Sql server 2014, Android studio and Web service). -The application let administrator take pic for the person that he want and save it on server with person's name -If you want to search about this person you can let the application take a new pic for this person and the application will give you the person's name -We use the Principal component analysis (PCA) algorithm to process the pic on server and return person's name
